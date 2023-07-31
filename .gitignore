@@ -1,5 +1,5 @@
 /target
-/docs
+/Cargo.lock
 *.ua
 !/tests/*.ua
 site/dist
